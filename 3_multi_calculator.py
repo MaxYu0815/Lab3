@@ -1,7 +1,6 @@
 # Max Yu
 # Calulator to add two numbers and display the result
 
-
 sum = 0 
 
 # 1. Input
@@ -19,6 +18,5 @@ elif op == "*":
 elif op == "/":
     sum = int(x1) / int(x2)
 
-# 3. Output
-    
+# 3. Output   
 print(f"Sum: {sum}")
